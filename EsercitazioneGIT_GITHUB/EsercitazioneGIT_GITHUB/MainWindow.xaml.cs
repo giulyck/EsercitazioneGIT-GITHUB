@@ -17,6 +17,7 @@ namespace EsercitazioneGIT_GITHUB
     public partial class MainWindow : Window
     {
         static Libro libro;
+        static Biblioteca biblioteca;
         public MainWindow()
         {
             InitializeComponent();
@@ -34,7 +35,22 @@ namespace EsercitazioneGIT_GITHUB
 
         private void Biblioteca_Click(object sender, RoutedEventArgs e)
         {
+           biblioteca.nome = nome.Text;
+           biblioteca.indirizzo = indirizzo.Text;
+           biblioteca.orario_apertura_chiusura = orario.Text;
            
         }
+
+        private void ListaLibri_Click(object sender, RoutedEventArgs e)
+        {
+            lista_libri.Text = biblioteca.getListaLibri();
+        }
+
+        private void CercaLibroDatitolo_Click(object sender, RoutedEventArgs e)
+        {
+            
+        }
+
+        
     }
 }
