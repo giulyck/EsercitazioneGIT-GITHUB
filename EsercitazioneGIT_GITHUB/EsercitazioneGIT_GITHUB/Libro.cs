@@ -77,6 +77,25 @@ namespace EsercitazioneGIT_GITHUB
             this.numero_pagine = numero_pagine;
         }
 
+        public string to_String()
+        {
+            return autore + " " + titolo + " " + anno_pubblicazione + " " +editore + " " + numero_pagine;
+        }
+
+        public string readingTime()
+        {
+            if(numero_pagine < 100)
+            {
+                return "1h";
+            }
+            else if(numero_pagine > 200)
+            {
+                return "3h";
+            }
+
+            return "2h";
+        }
+
 
     }
 }
