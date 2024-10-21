@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\giulia.cocka\\source\\repos\\EsercitazioneGIT_GITHUB\\EsercitazioneGIT_GITHUB\\EsercitazioneGIT_GITHUB.csproj",
+      "projectUniqueName": "C:\\Users\\giulia.cocka\\Documents\\EsercitazioneGIT\\EsercitazioneGIT_GITHUB\\EsercitazioneGIT_GITHUB\\EsercitazioneGIT_GITHUB.csproj",
       "projectName": "EsercitazioneGIT_GITHUB",
-      "projectPath": "C:\\Users\\giulia.cocka\\source\\repos\\EsercitazioneGIT_GITHUB\\EsercitazioneGIT_GITHUB\\EsercitazioneGIT_GITHUB.csproj",
+      "projectPath": "C:\\Users\\giulia.cocka\\Documents\\EsercitazioneGIT\\EsercitazioneGIT_GITHUB\\EsercitazioneGIT_GITHUB\\EsercitazioneGIT_GITHUB.csproj",
       "packagesPath": "C:\\Users\\giulia.cocka\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\giulia.cocka\\source\\repos\\EsercitazioneGIT_GITHUB\\EsercitazioneGIT_GITHUB\\obj\\",
+      "outputPath": "C:\\Users\\giulia.cocka\\Documents\\EsercitazioneGIT\\EsercitazioneGIT_GITHUB\\EsercitazioneGIT_GITHUB\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
