@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\giulia.cocka\\Documents\\EsercitazioneGIT\\EsercitazioneGIT_GITHUB\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{674EF5BF-B612-4DD8-863D-21B02AF3A018}|EsercitazioneGIT_GITHUB\\EsercitazioneGIT_GITHUB.csproj|c:\\users\\giulia.cocka\\documents\\esercitazionegit\\esercitazionegit_github\\esercitazionegit_github\\biblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{674EF5BF-B612-4DD8-863D-21B02AF3A018}|EsercitazioneGIT_GITHUB\\EsercitazioneGIT_GITHUB.csproj|solutionrelative:esercitazionegit_github\\biblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{674EF5BF-B612-4DD8-863D-21B02AF3A018}|EsercitazioneGIT_GITHUB\\EsercitazioneGIT_GITHUB.csproj|c:\\users\\giulia.cocka\\documents\\esercitazionegit\\esercitazionegit_github\\esercitazionegit_github\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{674EF5BF-B612-4DD8-863D-21B02AF3A018}|EsercitazioneGIT_GITHUB\\EsercitazioneGIT_GITHUB.csproj|solutionrelative:esercitazionegit_github\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,19 +31,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Biblioteca.cs",
+              "DocumentMoniker": "C:\\Users\\giulia.cocka\\Documents\\EsercitazioneGIT\\EsercitazioneGIT_GITHUB\\EsercitazioneGIT_GITHUB\\Biblioteca.cs",
+              "RelativeDocumentMoniker": "EsercitazioneGIT_GITHUB\\Biblioteca.cs",
+              "ToolTip": "C:\\Users\\giulia.cocka\\Documents\\EsercitazioneGIT\\EsercitazioneGIT_GITHUB\\EsercitazioneGIT_GITHUB\\Biblioteca.cs",
+              "RelativeToolTip": "EsercitazioneGIT_GITHUB\\Biblioteca.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwCUAAACOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T06:36:40.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Libro.cs",
               "DocumentMoniker": "C:\\Users\\giulia.cocka\\Documents\\EsercitazioneGIT\\EsercitazioneGIT_GITHUB\\EsercitazioneGIT_GITHUB\\Libro.cs",
               "RelativeDocumentMoniker": "EsercitazioneGIT_GITHUB\\Libro.cs",
               "ToolTip": "C:\\Users\\giulia.cocka\\Documents\\EsercitazioneGIT\\EsercitazioneGIT_GITHUB\\EsercitazioneGIT_GITHUB\\Libro.cs",
               "RelativeToolTip": "EsercitazioneGIT_GITHUB\\Libro.cs",
-              "ViewState": "AQIAAEUAAAAAAAAAAAA3wGIAAAAAAAAA",
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwGIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-21T06:20:26.271Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\giulia.cocka\\Documents\\EsercitazioneGIT\\EsercitazioneGIT_GITHUB\\EsercitazioneGIT_GITHUB\\MainWindow.xaml",
               "RelativeDocumentMoniker": "EsercitazioneGIT_GITHUB\\MainWindow.xaml",
@@ -50,7 +67,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\giulia.cocka\\Documents\\EsercitazioneGIT\\EsercitazioneGIT_GITHUB\\EsercitazioneGIT_GITHUB\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "EsercitazioneGIT_GITHUB\\MainWindow.xaml.cs",
