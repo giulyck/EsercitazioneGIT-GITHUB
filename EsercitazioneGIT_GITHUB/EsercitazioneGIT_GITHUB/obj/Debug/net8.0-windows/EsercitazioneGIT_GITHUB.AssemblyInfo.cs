@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EsercitazioneGIT_GITHUB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c92aa7dd29f1df907612f95d3698fb094ce99e6")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2929368bce13df659875138712b4a44f548bccfa")]
+>>>>>>> Libro
 [assembly: System.Reflection.AssemblyProductAttribute("EsercitazioneGIT_GITHUB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EsercitazioneGIT_GITHUB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
