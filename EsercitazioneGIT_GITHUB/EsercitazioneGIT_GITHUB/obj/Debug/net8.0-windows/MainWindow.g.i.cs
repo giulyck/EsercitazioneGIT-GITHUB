@@ -58,9 +58,15 @@ namespace EsercitazioneGIT_GITHUB
                 return;
             }
             _contentLoaded = true;
+<<<<<<< HEAD
             System.Uri resourceLocater = new System.Uri("/EsercitazioneGIT_GITHUB;V1.0.0.0;component/mainwindow.xaml", System.UriKind.Relative);
 
 #line 1 "..\..\..\MainWindow.xaml"
+=======
+            System.Uri resourceLocater = new System.Uri("/EsercitazioneGIT_GITHUB;component/mainwindow.xaml", System.UriKind.Relative);
+            
+            #line 1 "..\..\..\MainWindow.xaml"
+>>>>>>> Biblioteca
             System.Windows.Application.LoadComponent(this, resourceLocater);
 
 #line default
