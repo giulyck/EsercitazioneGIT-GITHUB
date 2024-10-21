@@ -41,6 +41,39 @@ namespace EsercitazioneGIT_GITHUB
             libri.Add(libro);
         }
 
+        public Libro SearchLibro(string titolo)
+        {
+            
+            for(int i = 0;i < libri.Count; i++)
+            {
+                if(titolo == libri[i].get_titolo())
+                {
+                   return libri[i];
+                }
+            }
+
+            return null;
+        }
+
+        public string SearchLibriAutore(string autore)
+        {
+            
+            for (int i = 0; i < libri.Count; i++)
+            {
+                if (autore == libri[i].get_Autore())
+                {
+                    Console.Write(libri[i] + " ");
+                }
+            }
+
+            return null;
+        }
+
+        public int NumeroLibri()
+        {
+            return libri.Count;
+        }
+
 
     }
 }
