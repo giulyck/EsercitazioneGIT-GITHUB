@@ -1,5 +1,5 @@
 ﻿EsercitazioneGIT_GITHUB
-1.0.0.0
+
 
 winexe
 C#
@@ -12,9 +12,9 @@ TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 C:\Users\giulia.cocka\Documents\EsercitazioneGIT\EsercitazioneGIT_GITHUB\EsercitazioneGIT_GITHUB\App.xaml
 11407045341
 
-61249834180
+6-1260046259
 198-635017904
 MainWindow.xaml;
 
-True
+False
 

@@ -16,9 +16,25 @@ namespace EsercitazioneGIT_GITHUB
     /// </summary>
     public partial class MainWindow : Window
     {
+        static Libro libro;
         public MainWindow()
         {
             InitializeComponent();
+        }
+
+        private void CreaLibro_Click(object sender, RoutedEventArgs e)
+        {
+            libro = new Libro(Autore.Text, Titolo.Text, AnnoPubblicazione.Text, Editore.Text, NumeroPagine.Text);
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            InfoLibro.Text = libro.to_String();
+        }
+
+        private void Biblioteca_Click(object sender, RoutedEventArgs e)
+        {
+           
         }
     }
 }
